@@ -1,0 +1,8 @@
+body{
+  background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN6IA7NRCf0OoUN6xV1sTPR9uUkQIOEE2zP8cgTb3SDxwXEEog);
+  background-repeat:no-repeat;
+  order: 20px solid grey;
+  font-weight: bolder;
+  margin: 50px;
+  padding-top: 40px;
+}
