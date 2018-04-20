@@ -1,8 +1,17 @@
 body{
-  
-  background-repeat:no-repeat;
-  order: 20px solid grey;
-  font-weight: bolder;
-  margin: 50px;
-  padding-top: 40px;
+  background-color: #2D555D;
+  background-image: url("skyscrapper.jpeg");
+
+}
+h1{
+  text-align: center;
+  color:143940;
+}
+body{
+  color:#ffffff;
+
+}
+.test{
+background-color:#2D555D;
+
 }
