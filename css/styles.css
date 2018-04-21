@@ -1,9 +1,11 @@
 
 h1{
 color:#154C6F;
+text-align: right;
+display:block;
 }
 body{
-
+  background-image: url("background.png");
 
 
 }
