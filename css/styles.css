@@ -111,7 +111,10 @@ ul h1{
 }
 
 a{
-  color: yellow;
+  color: white;
+  font-size: 32px;
+  padding-left: 200px;
+  margin-top: 200px;
 }
 
 
@@ -119,7 +122,7 @@ a{
   text-align: center;
   border-radius:25px 100px;
   top: 20%;
-  margin-left:80px;
+  margin-left:30px;
   border: dotted 3px crimson;
   width:20%;
 
@@ -179,8 +182,8 @@ font-size: 18px;
 }
 
 
-.menu{
-  padding-left: 0;
+.links{
+  padding-left: 20px;
   margin:0;
   padding: 20px;
 }
@@ -191,4 +194,7 @@ font-size: 18px;
   color:white;
   height: 30px;
   padding-top:0;
+}
+#arrow{
+  border:0px;
 }
